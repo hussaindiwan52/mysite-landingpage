@@ -122,6 +122,23 @@ nav ul li a:hover::before {
 	width: 30%;
 	margin: auto;
 }
+.education {
+	text-align: center;
+	display: inline-block;
+	text-align: left;
+}
+
+.education ul {
+	list-style: none;
+	line-height: 2;
+}
+.education a {
+	color: #05386b;
+	text-decoration: none;
+}
+.education a:hover {
+	color: #30e3cb;
+}
 .circular {
 	margin-top: 50px;
 	border-radius: 100%;
